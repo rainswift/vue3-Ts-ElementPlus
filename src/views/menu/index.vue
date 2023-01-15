@@ -30,22 +30,22 @@ let data2 = [
     {
         name:'导航1',
         index:'1',
-        icon:'document',
+        icon:'Document',
     },
     {
         name:'导航2',
         index:'2',
-        icon:'document',
+        icon:'Document',
         children:[
             {
                 name:'导航2-1',
                 index:'21',
-                icon:'document',
+                icon:'Document',
                 children:[
                     {
                         name:'导航2-1-1',
                         index:'211',
-                        icon:'document',
+                        icon:'Document',
                     },
                 ]
             },
