@@ -1,10 +1,10 @@
 import { App } from 'vue'
 import chooseArea from './chooseArea'
 // import chooseIcon from './chooseIcon'
-// import trend from './trend'
-// import notification from './notification'
-// import list from './list'
-// import menu from './menu'
+import trend from './trend'
+import notification from './notification'
+import list from './list'
+import menu from './menu'
 // import chooseTime from './chooseTime'
 // import chooseDate from './chooseDate'
 // import progress from './progress'
@@ -17,10 +17,10 @@ import chooseArea from './chooseArea'
 const components = [
   chooseArea,
   // chooseIcon,
-  // trend,
-  // notification,
-  // list,
-  // menu,
+  trend,
+  notification,
+  list,
+  menu,
   // chooseTime,
   // chooseDate,
   // chooseCity,

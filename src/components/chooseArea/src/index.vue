@@ -29,18 +29,16 @@
   import { ref, watch } from 'vue'
   import allAreas from '../lib/pca-code.json'
 
-  // export interface AreaItem {
-  //   name: string,
-  //   code: string,
-  //   children?: AreaItem[]
-  // }
   export interface AreaItem {
     name: string,
     code: string,
     children?: AreaItem[],
   }
 
-
+  export interface Data {
+    name: string,
+    code: string
+  }
 
   // 下拉框选择省份的值
   let province = ref<string>('')

@@ -8,6 +8,17 @@
         <!-- <el-icon-fold></el-icon-fold> -->
         <template #title>省市区选择</template>
       </el-menu-item>
+       <el-menu-item index="/trend">
+        <template #title>趋势标记</template>
+      </el-menu-item>
+      <el-menu-item index="/notification">
+        <template #title>通知菜单</template>
+      </el-menu-item>
+      <el-menu-item index="/menu">
+        <template #title>菜单</template>
+      </el-menu-item>
+      
+      
   </el-menu>
 </template>
 
