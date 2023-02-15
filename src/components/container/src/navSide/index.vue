@@ -39,11 +39,48 @@ let data = [
     icon: "document",
     index: "/notification",
   },
-    {
+  {
     name: "导航菜单",
     icon: "document",
     index: "/menu",
   },
+  {
+    name: "进度条",
+    icon: "document",
+    index: "/progress",
+  },
+   {
+    name: "时间选择",
+    icon: "document",
+    index: "/chooseTime",
+  },
+  {
+    name: "日期选择",
+    icon: "document",
+    index: "/chooseDate",
+  },
+  {
+    name: "城市选择",
+    icon: "document",
+    index: "/chooseCity",
+  },
+  {
+    name: "表单",
+    icon: "document",
+    index: "/form",
+  },
+  {
+    name: "弹出框",
+    icon: "document",
+    index: "/modalForm",
+  },
+  {
+    name: "表格",
+    icon: "document",
+    index: "/table",
+  },
+  
+  
 ];
 </script>
 

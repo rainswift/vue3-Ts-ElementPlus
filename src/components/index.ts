@@ -5,13 +5,13 @@ import trend from './trend'
 import notification from './notification'
 import list from './list'
 import menu from './menu'
-// import chooseTime from './chooseTime'
-// import chooseDate from './chooseDate'
-// import progress from './progress'
-// import chooseCity from './chooseCity'
-// import form from './form'
-// import modalForm from './modalForm'
-// import table from './table'
+import chooseTime from './chooseTime'
+import chooseDate from './chooseDate'
+import progress from './progress'
+import chooseCity from './chooseCity'
+import form from './form'
+import modalForm from './modalForm'
+import table from './table'
 // import calendar from './calendar'
 
 const components = [
@@ -21,13 +21,13 @@ const components = [
   notification,
   list,
   menu,
-  // chooseTime,
-  // chooseDate,
-  // chooseCity,
-  // progress,
-  // form,
-  // modalForm,
-  // table,
+  chooseTime,
+  chooseDate,
+  chooseCity,
+  progress,
+  form,
+  modalForm,
+  table,
   // calendar
 ]
 
